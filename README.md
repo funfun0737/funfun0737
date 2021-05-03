@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=funfun0737.readme)
+
+
 <!--
 **funfun0737/funfun0737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
