@@ -7,7 +7,5 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=funfun0737&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=funfun0737.readme)
